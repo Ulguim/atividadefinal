@@ -6,7 +6,7 @@ function sum() {
 }
 
 
-function sub(){
+function sub() {
     let a = parseFloat(lines.shift());
     let b = parseFloat(lines.shift());
     let result = a - b;
@@ -18,5 +18,8 @@ function mult() {
 }
 
 function div() {
-    //TODO: Implementar divisão
+    let a = parseFloat(lines.shift());
+    let b = parseFloat(lines.shift());
+    let result = a / b;
+    console.log(result);
 }

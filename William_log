@@ -1,0 +1,355 @@
+    1  ls
+    2  desktop
+    3  history
+    4  history | grep "docker"
+    5  $ $ sh -c "
+    6  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    7  $ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)
+    8   -O -)"
+    9  > $ $ sh -c "
+   10  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   11  $ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+   12  O -)"$ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+   13  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   14  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   15  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   16  pwd
+   17  mkdir
+   18  mkdir gittest
+   19  pwd
+   20  pwd
+   21  cd gittest
+   22  pwd
+   23  ~
+   24  cd gittest
+   25  mkdir -p gitteste
+   26  pwd
+   27  cd gitteste
+   28  cd gittest
+   29  cd ~gittest
+   30  cd ..
+   31  cd-
+   32  cd-
+   33  cd -
+   34  cd..
+   35  cd ..
+   36  cd ..
+   37  cd gittest
+   38  pwd
+   39  touch
+   40  touch gitttest.txt
+   41  history
+   42  ls
+   43   ls c
+   44   ls c:
+   45   ls c:/
+   46  ls -l
+   47   ls c:/
+   48  ls -l c/
+   49  ls -l c:/
+   50  ls -lh
+   51  clear
+   52  history
+   53  ls -la
+   54  history grep "gittest"
+   55  history gep "gittest"
+   56  history grep "history"
+   57  history | grep "history"
+   58  clear
+   59  pwd
+   60  cd gitteste
+   61  cd -
+   62  rm giteste
+   63  rm gitteste
+   64  rm -rf gitteste
+   65  cat
+   66  cd  gittest
+   67  ls
+   68  cat gittest.tx
+   69  cat gittest.txt
+   70  cat gitteste.txt
+   71  ls
+   72  cat gitttest.txt
+   73  nano gitttest.txt
+   74  cat gitttest.txt
+   75  vi gitttest.txt
+   76  ls
+   77  cd..
+   78  cd ..
+   79  pwd
+   80  cd gittest
+   81  ls
+   82  cp gitttest.txt gittest1.txt
+   83  ls
+   84  ls -l
+   85  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   86  brew doctor
+   87  (curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+   88  (curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)
+   89  brew install zsh
+   90  brew install zsh
+   91  sudo apt install zsh
+   92  ~$ sudo apt install zsh
+   93  ls
+   94  clear
+   95  echo "hello terminal"
+   96  echo "hello terminal" > saida.txt
+   97  cat saida.txt
+   98  echo "hello terminal" >> saida.txt
+   99  cat saida.txt
+  100  ls
+  101  ping 192.168.56.255 >> ping.txt
+  102  ls
+  103  cat ping.txt
+  104  sudo apt-get update
+  105  sudo apt-get update
+  106  cd $HOME
+  107  mkdir -p .bash/themes/git_bash_windows_powerline
+  108  git clone https://github.com/diesire/git_bash_windows_powerline.git .bash/themes/git_bash_windows_powerline
+  109  # Theme
+  110  THEME=$HOME/.bash/themes/git_bash_windows_powerline/theme.bash
+  111  if [ -f $THEME ]; then    . $THEME; fi
+  112  history
+  113  cleart
+  114  clear
+  115  ls
+  116  # Theme
+  117  THEME=$HOME/.bash/themes/git_bash_windows_powerline/theme.bash
+  118  if [ -f $THEME ]; then    . $THEME; fi
+  119  unset THEME
+  120   unset THEME
+  121  ./install.sh
+  122  THEME=$HOME/.bash/themes/git_bash_windows_powerline/theme.bash
+  123  if [ -f $THEME ]; then    . $THEME; fi
+  124  history
+  125  git config --global user.name "Ulguim"
+  126  git config --global user.email "williamulguim2014@gmail.com"
+  127  git config --list
+  128  git --version
+  129  pwd
+  130  clear
+  131  mkir aula2
+  132  mkir "aula2"
+  133  mkdir aula2
+  134  pwd
+  135  ls
+  136  cd aula2
+  137  ls -la
+  138  git init
+  139  ls
+  140  ls -la
+  141  git status
+  142  cd .git
+  143  git status
+  144  ls
+  145  touch file.txt
+  146  pwd
+  147  ls
+  148  git status
+  149  cd ..
+  150  pwd
+  151  git status
+  152  cd .git
+  153  git status
+  154  ls
+  155  ls
+  156  cd hooks
+  157  git status
+  158  cd ..
+  159  cd ..
+  160  git status
+  161  ls
+  162  ls
+  163  ls -la
+  164   git add file.txt
+  165  cd .git
+  166  git add file.txt
+  167  cd ..
+  168  git add.
+  169  touch file.txt
+  170  git add file.txt
+  171  ls
+  172  git status
+  173  git help
+  174  git help add
+  175  git commit
+  176  git commit -m "Cria arquivo vazio de testes"
+  177  pwd
+  178  history
+  179  git status
+  180  touch file2.txt
+  181  touch file3.txt
+  182  git status
+  183  git status
+  184  git add.
+  185  git add .
+  186  git status
+  187  git commit
+  188  git commit
+  189  git statis
+  190  git status
+  191  touch .gitigonore
+  192  touch dep.out
+  193  echo "dep.out" > .gitignore
+  194  echo "*.out" > .gitignore
+  195  cat .gitignore
+  196  gitstatus
+  197  git status
+  198  rm gitigonore
+  199  rm .gitigonore
+  200  git status
+  201  git commit -m "adiciona gitignore"
+  202  git commit add .
+  203  git commit add.
+  204  git add.
+  205  git add .
+  206  git status
+  207  git commit -m "adiciona gitignore"
+  208  history
+  209  history
+  210  history
+  211  history
+  212  cd ~/.ssh
+  213  ls
+  214  ssh-keygen -t rsa -C "williamulguim2014@gmail.com"
+  215  cd ~/.ssh
+  216  ls
+  217  cd id_rsa
+  218  ssh-copy-id ulguim@191.5.219.21
+  219  ssh-keygen -t rsa -b 4096 -C "https://github.com/Ulguim"
+  220   ^M
+  221  eval "$(ssh-agent -s)"
+  222  ssh-add ~/.ssh/id_rsa
+  223  lw
+  224  ls
+  225  cd 
+  226  ls
+  227  cd 
+  228  cd /G/SENAC\Engenharia\git
+  229  PWD
+  230  cd /SENAC\Engenharia\git
+  231  cd /g/SENAC\Engenharia\git
+  232  cd /G/SENAC\Engenharia\git
+  233  cd/G/SENAC\Engenharia\git
+  234  cd /g/SENAC\Engenharia\git
+  235  cd /g/
+  236  pwd
+  237  ls
+  238  cd git/
+  239  ls
+  240  cd ..
+  241  cd SENAC/
+  242  cd git/
+  243  ls
+  244  ls
+  245  cd /atividadef-master/
+  246  cd atividadef-master/
+  247  gitmoji -i
+  248  git init
+  249  gitmoji -i
+  250  ls
+  251  git add .
+  252  git remote add atividade https://github.com/Ulguim/atividadef
+  253  ls
+  254  ls
+  255  cd area de trabalho/
+  256  cd area-de-trabalho/
+  257  cd area*de*trabalho/
+  258  ls
+  259  cd ..
+  260  git flow init soma
+  261  git flow init
+  262  git flow init
+  263  cd /g/SENAC\Engenharia\git
+  264  cd /g/SENAC\Engenharia\git/
+  265  cd /g/SENAC\git\atividadef-master
+  266  cd /g/SENAC\git\atividadef-master/
+  267  cd /g/SENAC\git\atividadef-master/
+  268  cd /g
+  269  cd SENAC\git\atividadef-master/
+  270  cd SENAC\git\atividadef-master
+  271  cd 
+  272  cd \git\atividadef-master
+  273  ls
+  274  cd git/
+  275  ls
+  276  /atividadef-master/
+  277  cd atividadef-master/
+  278  git flow init
+  279  git log
+  280  git flow feature start soma
+  281  git branch -a
+  282  gitmoji -i
+  283  git status
+  284  git commit -m
+  285  git commit
+  286  git add Calculadora.js
+  287  git commit
+  288  gitmoji-cli
+  289  gitmoji-cli
+  290  npm i -g gitmoji-cli
+  291  git log
+  292  git status
+  293  git commit -m Finalizada feature soma
+  294  git commit -m 'Finalizada feature soma'
+  295  git log
+  296  history
+  297  git log
+  298  history
+  299  npm i -g gitmoji-cli
+  300  cd 
+  301  cd g/
+  302  pwd
+  303  cd ..
+  304  cd ..
+  305  cd g/
+  306  cd ..
+  307  cd g/
+  308  cd senac/
+  309  cd git/
+  310  git niti
+  311  git init
+  312  ls
+  313  cd atividadef-master/
+  314  ls
+  315  pwd
+  316  git push atividade
+  317  git push --set-upstream atividade develop
+  318  history
+  319  git branch -b $feature/Soma
+  320  git branch -b feature/Soma
+  321  git checkout -b feature/Soma
+  322* 
+  323  git statys
+  324  git status
+  325  git status
+  326  git add Calculadora.js
+  327  gitmoji -i
+  328  git commit
+  329  git remote
+  330  git push origin
+  331  git push origin feature/Soma
+  332  git status
+  333  git add Calculadora.js
+  334  git push origin feature/Soma
+  335  git push origin feature/Soma
+  336  git commit
+  337  gitmoji -i
+  338  git commit
+  339  git pull origin 
+  340* git push origin feature/div
+  341  git checkout master
+  342* 
+  343  git pull origin
+  344  git checkout feature/div
+  345  history
+  346  git checkout -b feature/div
+  347  git status
+  348  git add Calculadora.js
+  349  git commit
+  350  git push origin feature/div
+  351  git checkout master
+  352  git pull origin
+  353  history > William
+  354  git pull
+  355  history > William

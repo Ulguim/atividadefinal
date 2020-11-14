@@ -1,6 +1,10 @@
-function sum(){
-    //TODO: Implementar soma
+function sum() {
+    let a = parseFloat(lines.shift());
+    let b = parseFloat(lines.shift());
+    let result = a + b;
+    console.log(result);
 }
+
 
 function sub(){
     let a = parseFloat(lines.shift());
@@ -9,10 +13,10 @@ function sub(){
     console.log(result);
 }
 
-function mult(){
+function mult() {
     //TODO: Implementar multiplicação
 }
 
-function div(){
+function div() {
     //TODO: Implementar divisão
 }

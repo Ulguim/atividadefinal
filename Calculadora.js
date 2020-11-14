@@ -1,6 +1,6 @@
 function sum() {
-    let a = parseInt(lines.shift());
-    let b = parseInt(lines.shift());
+    let a = parseFloat(lines.shift());
+    let b = parseFloat(lines.shift());
     let result = a + b;
     console.log(result);
 }

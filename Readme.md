@@ -1,0 +1,1 @@
+Desenvolvido codigo basico de uma calculadora com suas 4 principais funções (soma, subtração, multiplicação e divisão).
